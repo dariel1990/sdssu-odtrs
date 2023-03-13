@@ -1,0 +1,3 @@
+ReWriteEngine On
+
+RewriteRule ^listEmployees/?$ index.php?action=listEmployees
